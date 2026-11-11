@@ -1,8 +1,10 @@
 <div align="center">
 
-<img src="https://vercel.app" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=nexa&fontSize=70&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
-<img src="https://demolab.com" alt="Typing SVG" />
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=nexa+client+dev;1.12.2+%E2%86%92+26.2+porting;vibecoding+enjoyer" alt="Typing SVG" />
+</a>
 
 </div>
 
@@ -18,21 +20,12 @@
 
 <div align="left">
 
-![Java](https://shields.io)
-![Fabric](https://shields.io)
-![IntelliJ IDEA](https://shields.io)
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+<img src="https://img.shields.io/badge/Fabric-1E1E1E?style=for-the-badge&logo=fabric&logoColor=white" alt="Fabric" />
+<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA" />
 
 </div>
 
 ```text
 Java          [████████████░░░░░░░░] 60%  (базу знаю, остальное нагуглю)
 Fabric API    [███████████░░░░░░░░░] 50%  (VIBECODEEEEEE)
-```
-
----
-
-<div align="center">
-
-<img src="https://vercel.app" width="100%"/>
-
-</div>
