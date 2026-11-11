@@ -1,16 +1,40 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**cezovu1337/cezovu1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://vercel.app" width="100%"/>
 
-Here are some ideas to get you started:
+<a href="https://git.io">
+  <img src="https://demolab.com" alt="Typing SVG" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+<br>
+
+### ⚡ инфо:
+- 👾 пилю свой клиент **nexa** на **26.3 fabric** — чиста вайбкодик
+- 🧬 портирую всякие клиенты с 1.12.2 -> 26.2, ренеймлю и кручу модули пока не словлю выгорание
+
+---
+
+### 🛠️ стек и скиллы:
+
+<div align="left">
+
+![Java](https://shields.io)
+![Fabric](https://shields.io)
+![IntelliJ IDEA](https://shields.io)
+
+</div>
+
+```text
+Java          [████████████░░░░░░░░] 60%  (базу знаю, остальное нагуглю)
+Fabric API    [███████████░░░░░░░░░] 50%  (VIBECODEEEEEE)
+```
+
+---
+
+<div align="center">
+
+<img src="https://vercel.app" width="100%"/>
+
+</div>
