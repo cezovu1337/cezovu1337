@@ -26,6 +26,22 @@
 
 </div>
 
-```text
-Java          [████████████░░░░░░░░] 60%  (базу знаю, остальное нагуглю)
-Fabric API    [███████████░░░░░░░░░] 50%  (VIBECODEEEEEE)
+<br>
+
+<div align="left">
+
+**Bukkit Dev** — 47%
+<img src="https://progress-bar.dev/47/?width=420&color=b45309&suffix=%25&title=" alt="Bukkit Dev 47%" />
+
+**Fabric API** — 54%
+<img src="https://progress-bar.dev/54/?width=420&color=16a34a&suffix=%25&title=" alt="Fabric API 54%" />
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%"/>
+
+</div>
