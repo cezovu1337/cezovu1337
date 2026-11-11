@@ -30,11 +30,14 @@
 
 <div align="left">
 
-**Bukkit Dev** — 47%
-<img src="https://progress-bar.dev/47/?width=420&color=b45309&suffix=%25&title=" alt="Bukkit Dev 47%" />
+**Java Dev** — 60%
+<img src="https://img.shields.io/badge/Java_Dev-60%25-ED8B00?style=for-the-badge" alt="Java Dev 60%" />
 
-**Fabric API** — 54%
-<img src="https://progress-bar.dev/54/?width=420&color=16a34a&suffix=%25&title=" alt="Fabric API 54%" />
+**Bukkit Dev** — 47%
+<img src="https://img.shields.io/badge/Bukkit_Dev-47%25-b45309?style=for-the-badge" alt="Bukkit Dev 47%" />
+
+**Fabric API Dev** — 54%
+<img src="https://img.shields.io/badge/Fabric_API-54%25-16a34a?style=for-the-badge" alt="Fabric API 54%" />
 
 </div>
 
