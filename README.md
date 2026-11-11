@@ -30,14 +30,9 @@
 
 <div align="left">
 
-**Java Dev** — 60%
 <img src="https://img.shields.io/badge/Java_Dev-60%25-ED8B00?style=for-the-badge" alt="Java Dev 60%" />
-
-**Bukkit Dev** — 47%
 <img src="https://img.shields.io/badge/Bukkit_Dev-47%25-b45309?style=for-the-badge" alt="Bukkit Dev 47%" />
-
-**Fabric API Dev** — 54%
-<img src="https://img.shields.io/badge/Fabric_API-54%25-16a34a?style=for-the-badge" alt="Fabric API 54%" />
+<img src="https://img.shields.io/badge/Fabric_API-54%25-16a34a?style=for-the-badge" alt="Fabric API Dev 54%" />
 
 </div>
 
